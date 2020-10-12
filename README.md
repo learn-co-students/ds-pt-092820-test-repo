@@ -1,4 +1,4 @@
-# Online DS PT 09/28/20 - GIF-Stravaganza
+# Online DS PT 092820 - GIF-Stravaganza
 
 This week's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a Git branching workflow to all contribute to this README file.
 
