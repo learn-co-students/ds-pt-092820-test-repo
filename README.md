@@ -79,7 +79,7 @@ Look at the pending pull requests to see an example in progress!
 
 ### Lindsey
 
-![Matthew McConaughey 'alright' gif from gfycat](https://thumbs.gfycat.com/GrossImpracticalBichonfrise-size_restricted.gif)
+![new GIF of a Gryffindor cat, from Giphy](https://media.giphy.com/media/uWYjSbkIE2XIMIc7gh/giphy.gif)
 
 ### Matthew N
 
