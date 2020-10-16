@@ -27,7 +27,7 @@ Look at the branches and pending pull requests on this repo to see an example in
 
 
 ### Amanda
-
+![Amanda GIF](https://media.giphy.com/media/l1KVb2dUcmuGG4tby/giphy.gif)
 
 ### Arjun
 
