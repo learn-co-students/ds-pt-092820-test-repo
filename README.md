@@ -48,6 +48,7 @@ Look at the branches and pending pull requests on this repo to see an example in
 
 
 ### Huda
+![Data cleaning](https://media.giphy.com/media/kXBVtKjLxINji/giphy.gif)
 
 
 ### Jimmy
