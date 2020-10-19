@@ -48,6 +48,7 @@ Look at the branches and pending pull requests on this repo to see an example in
 
 
 ### Huda
+![Data cleaning](https://media.giphy.com/media/kXBVtKjLxINji/giphy.gif)
 
 
 ### Jimmy
@@ -91,8 +92,7 @@ Look at the branches and pending pull requests on this repo to see an example in
 
 
 ### Mooney
-
+![Mooney](https://media.giphy.com/media/3o752gZdDHjObx309W/giphy.gif)
 
 ### Shawn
-
 ![Mindblown!](https://media.giphy.com/media/OK27wINdQS5YQ/giphy.gif)
