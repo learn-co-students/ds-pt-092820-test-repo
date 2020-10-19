@@ -91,8 +91,7 @@ Look at the branches and pending pull requests on this repo to see an example in
 
 
 ### Mooney
-![Mooney](http://gph.is/2G6aCre)
+![Mooney](https://media.giphy.com/media/3o752gZdDHjObx309W/giphy.gif)
 
 ### Shawn
-
 ![Mindblown!](https://media.giphy.com/media/OK27wINdQS5YQ/giphy.gif)
