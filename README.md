@@ -33,7 +33,7 @@ Look at the branches and pending pull requests on this repo to see an example in
 
 
 ### Christie
-![Christie Gif](https://giphy.com/gifs/guys-spooky-IRZE8JX2BQikM)
+![Christie Gif](https://media.giphy.com/media/IRZE8JX2BQikM/giphy.gif)
 
 ### Cindy
 
