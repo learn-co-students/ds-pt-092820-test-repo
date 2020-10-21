@@ -42,7 +42,7 @@ Look at the branches and pending pull requests on this repo to see an example in
 
 
 ### Daniel
-
+![Scientician GIF](https://media.giphy.com/media/d6sLkjQqIY0nndhJIg/giphy.gif)
 
 ### Gladys
 
