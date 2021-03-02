@@ -87,6 +87,7 @@ Look at the branches and pending pull requests on this repo to see an example in
 
 ### Matt S
 
+![Mookie Betts Celebrating](https://media.giphy.com/media/PXiI96unZWyR3Txl6o/giphy.gif)
 
 ### Mengyu
 
