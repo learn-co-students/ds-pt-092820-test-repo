@@ -80,7 +80,7 @@ Look at the branches and pending pull requests on this repo to see an example in
 
 ### Lindsey
 
-![Matthew McConaughey 'alright' gif from gfycat](https://thumbs.gfycat.com/GrossImpracticalBichonfrise-size_restricted.gif)
+![new GIF of a Gryffindor cat, from Giphy](https://media.giphy.com/media/uWYjSbkIE2XIMIc7gh/giphy.gif)
 
 ### Matthew N
 
